@@ -1,0 +1,61 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://preview.bostheme.com/wpmedia
+Data file = /home/idthemec/public_html/preview/wp-content/themes/wpmedia/inc/importer/demo-content.xml
+Widget file = /home/idthemec/public_html/preview/wp-content/themes/wpmedia/inc/importer/widgets.json
+Customizer file = /home/idthemec/public_html/preview/wp-content/themes/wpmedia/inc/importer/customizer.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+---Importing widgets---
+Sidebar : 
+
+Custom HTML - No Title - Imported
+Popular Posts (Wpmedia) - Popular Posts - Imported
+
+Home Top Sidebar : 
+
+Custom HTML - No Title - Imported
+Recent Posts (Wpmedia) - Kesehatan - Imported
+
+Module Fullwidth : 
+
+Module Posts (Wpmedia) - Berita Terbaru - Imported
+
+Module 1 : 
+
+Module Posts (Wpmedia) - Otomotif - Imported
+
+Module 2 : 
+
+Module Posts (Wpmedia) - Teknologi - Imported
+
+Footer 1 : 
+
+Contact Info (Wpmedia) - Contact Info - Imported
+
+Footer 2 : 
+
+Popular Tags/Category Widget (Wpmedia) - Kategori - Imported
+
+Footer 3 : 
+
+Popular Tags/Category Widget (Wpmedia) - Label - Imported
+
+Footer 4 : 
+
+Pages - Halaman - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
