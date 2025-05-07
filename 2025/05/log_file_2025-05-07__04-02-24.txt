@@ -1,0 +1,67 @@
+
+---Upload files---
+Content file was not uploaded. Error: No file provided.
+
+---Upload files---
+Customizer file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://sarjanaberita.com
+Data file = not defined!
+Widget file = /home/sites/35b/d/d0563e42a8/public_sarjanaberita/wp-content/uploads/2025/05/widgets.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+---Importing widgets---
+Sidebar : 
+
+HTML Khusus - No Title - Imported
+Pos Populer (Wpmedia) - Popular Posts - Imported
+
+Top Sidebar Beranda : 
+
+HTML Khusus - No Title - Imported
+Pos Terbaru (Wpmedia) - Kesehatan - Imported
+
+Modul lebar penuh : 
+
+Module Pos (Wpmedia) - Berita Terbaru - Imported
+
+Module 1 : 
+
+Module Pos (Wpmedia) - Otomotif - Imported
+
+Module 2 : 
+
+Module Pos (Wpmedia) - Teknologi - Imported
+
+Footer 1 : 
+
+Info Kontak (Wpmedia) - Contact Info - Imported
+
+Footer 2 : 
+
+Widget Populer Tag/kategori (Wpmedia) - Kategori - Imported
+
+Footer 3 : 
+
+Widget Populer Tag/kategori (Wpmedia) - Label - Imported
+
+Footer 4 : 
+
+Laman - Halaman - Imported
+
+
+
+---ocdi/after_import---
+
